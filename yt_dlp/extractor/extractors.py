@@ -1918,6 +1918,7 @@ from .vidio import (
     VidioLiveIE
 )
 from .vidlii import VidLiiIE
+from .vidsrip import VidsRipIE
 from .vier import VierIE, VierVideosIE
 from .viewlift import (
     ViewLiftIE,
